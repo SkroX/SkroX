@@ -1,4 +1,4 @@
-### 🔭 Software Engineer | Android | Django-Rest-Framework | React | Blockchain [![HitCount](http://hits.dwyl.com/SkroX/SkroX.svg)](http://hits.dwyl.com/SkroX/SkroX) 
+### 🔭 Software Engineer | Android | Django-Rest-Framework | React | Blockchain<a href="http://hits.dwyl.io/SkroX/SkroX"><img alt="HitCount" src="http://hits.dwyl.io/SkroX/SkroX.svg"></a>
 ` 😄 Shubham Kumar` |  `🌱 Delhi, India` | Student at NIT Hamirpur | Former SDE intern at [@Spotii](https://github.com/spotii-me/) and [@IIT Delhi](https://home.iitd.ac.in/).
 
 
