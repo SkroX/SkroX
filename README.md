@@ -22,4 +22,6 @@
   <a href="mailto:kumar.shubham1024@gmail.com?subject=Hello%20Shubham,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkroX&layout=compact&hide=html" alt="Shubham Kumar" /></p>
+
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=SkroX&show_icons=true&hide_border=true)
