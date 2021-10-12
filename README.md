@@ -1,4 +1,4 @@
-### 🔭 Software Engineer | Android | Django-Rest-Framework | React | Blockchain   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSkroX%2FSkroX)](https://hits.seeyoufarm.com)
+### 🔭 Software Engineer | Android | Django-Rest-Framework | Angular | Blockchain   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSkroX%2FSkroX)](https://hits.seeyoufarm.com)
 ` 😄 Shubham Kumar` |  `🌱 Delhi, India` | Student at NIT Hamirpur | Former SDE intern at [@Morgan Stanley](https://www.morganstanley.com/) , [@Spotii](https://github.com/spotii-me/) and [@IIT Delhi](https://home.iitd.ac.in/).
 
 
